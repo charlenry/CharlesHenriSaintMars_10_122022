@@ -19,8 +19,8 @@ Je vous envoie un document dans lequel j'ai synthétisé les attentes du client.
 ## Les livrables
 
 Les livrables sont ci-dessus au format PDF. De plus, les maquettes sont sur Figma avec prototype pour aider à comprendre la navigation entre les pages.
-- [https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=120-4255](Version desktop des maquettes sur Figma avec prototype).
-- [https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=51-4](Version mobile des maquettes sur Figma avec prototype).
+- [Version desktop des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=120-4255).
+- [Version mobile des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=51-4).
 
 Pour démarrer le prototype, cliquez sur le triangle en haut à droite. Il y a 3 parcours : \
 - Lorsqu'on veut créer un compte,
