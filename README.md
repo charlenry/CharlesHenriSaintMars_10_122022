@@ -17,17 +17,23 @@ calendrier, gestionnaire de tâches, tableau de bord).
 Je vous envoie un document dans lequel j'ai synthétisé les attentes du client. Vous y trouverez nos prises de notes et quelques croquis. Bien sûr, il faudra fournir les maquettes pour desktop et mobile.
 
 ## Les livrables
+### Lien vers les maquettes Figma avec prototype
 
 Les livrables sont ci-dessus au format PDF. De plus, les maquettes sont sur Figma avec prototype pour aider à comprendre la navigation entre les pages.
 - [Version desktop des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=120-4255).
 - [Version mobile des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=51-4).
 
-Pour démarrer le prototype, cliquez sur le triangle en haut à droite. Il y a 3 parcours : \
+Pour démarrer le prototype, cliquez sur le triangle en haut à droite. Il y a 3 parcours : 
 - Lorsqu'on veut créer un compte,
 - Lorsqu'on a oublié son mot de passe,
 - Lorsqu'on considère que les identifiants sont corrects et qu'on clique sur le bouton `Connexion`.
 
-Au cours d'un parcours, les champs texte ne sont pas modifiables mais les cases à cocher et certains boutons sont fonctionnels. Lorsqu'un élément est cliquable, le curseur de la souris se transforme en main (sauf pour la version desktop).
+Au cours d'un parcours, les champs texte ne sont pas modifiables mais les cases à cocher et certains boutons sont fonctionnels. Lorsqu'un élément est cliquable, le curseur de la souris se transforme en main (sauf pour la version mobile).
 
 À la fin de chaque parcours, on peut appuyer sur la `touche R` pour revenir au début du parcours.
+
+### Liens vers les tableaux Kanban
+- [Tableau Kanban avec Kanboard](https://www.stmarsch.tech/kanboard/?controller=BoardViewController&action=readonly&token=7da15211015d3eeac21c8a8eea2d9f37d4d1b249a971f0b44a5999a1e89f).
+- [Tableau Kanban avec Trello](https://trello.com/invite/b/qXcF3OH6/ATTId7bcc140ccec39357a5d1baaa1b0822354C943A4/dev4u-projet-learnhome).
+- [Tableau Kanban avec Github](https://github.com/users/charlenry/projects/1).
 
