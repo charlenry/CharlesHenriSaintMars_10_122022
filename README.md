@@ -12,7 +12,7 @@ Vous êtes le lead développeur de l'entité web. Votre rôle est de cadrer ce p
 1. Le.s diagramme.s de cas d'usage pour chacune des fonctionnalités majeures de chaque page (connexion, chat,
 calendrier, gestionnaire de tâches, tableau de bord).
 2. Les user stories avec critère.s d'acceptation pour chacune des fonctionnalités, partagées dans un format standard (PDF, DOCX, XLSX).
-3. Les maquettes du site avec un design simple et au moins une maquette par page (Vous pouvez utiliser Figma ou Sketch et il faudra que expliquer la navigation entre les pages pendant le meeting).
+3. Les maquettes du site avec un design simple et au moins une maquette par page (Vous pouvez utiliser Figma ou Sketch et il faudra expliquer la navigation entre les pages pendant le meeting).
 4. Un Kanban découpant le projet, de manière macro (détails techniques exclus) en blocs de fonctionnalités et sous-fonctionnalités pour le développement. J'ai démarré le découpage dans ce kanban sur Notion, à vous de finir de compléter la colonne `ANALYZE` sur le même modèle. Vous pouvez travailler sur Notion, Trello ou GitHub.
 Je vous envoie un document dans lequel j'ai synthétisé les attentes du client. Vous y trouverez nos prises de notes et quelques croquis. Bien sûr, il faudra fournir les maquettes pour desktop et mobile.
 
