@@ -33,7 +33,7 @@ Au cours d'un parcours, les champs texte ne sont pas modifiables mais les cases 
 À la fin de chaque parcours, on peut appuyer sur la `touche R` pour revenir au début du parcours.
 
 ### Liens vers les tableaux Kanban
-- [Tableau Kanban avec Kanboard](https://www.stmarsch.tech/kanboard/?controller=BoardViewController&action=readonly&token=7da15211015d3eeac21c8a8eea2d9f37d4d1b249a971f0b44a5999a1e89f).
+- [Tableau Kanban avec Kanboard](https://www.stmarsch.net/kanboard/?controller=BoardViewController&action=readonly&token=7da15211015d3eeac21c8a8eea2d9f37d4d1b249a971f0b44a5999a1e89f).
 - [Tableau Kanban avec Trello](https://trello.com/invite/b/qXcF3OH6/ATTId7bcc140ccec39357a5d1baaa1b0822354C943A4/dev4u-projet-learnhome).
 - [Tableau Kanban avec Github](https://github.com/users/charlenry/projects/1).
 
