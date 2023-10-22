@@ -18,8 +18,8 @@ Je vous envoie un document dans lequel j'ai synthétisé les attentes du client.
 
 ## Les livrables
 
-### Diagramme des cas d'usage
-[Diagramme des cas d'usage](https://github.com/charlenry/CharlesHenriSaintMars_10_122022/blob/main/SaintMars_CharlesHenri_1_diagramme_cas_usage_122022.pdf).
+### Diagramme des cas d'utilisation
+[Diagramme des cas d'utilisation](https://github.com/charlenry/CharlesHenriSaintMars_10_122022/blob/main/SaintMars_CharlesHenri_1_diagramme_cas_usage_122022.pdf).
 
 ### Les User Stories
 [Les User Stories avec critères d'acceptation](https://github.com/charlenry/CharlesHenriSaintMars_10_122022/blob/main/SaintMars_CharlesHenri_2_user_stories_122022.pdf).
