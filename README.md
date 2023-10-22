@@ -17,9 +17,15 @@ calendrier, gestionnaire de tâches, tableau de bord).
 Je vous envoie un document dans lequel j'ai synthétisé les attentes du client. Vous y trouverez nos prises de notes et quelques croquis. Bien sûr, il faudra fournir les maquettes pour desktop et mobile.
 
 ## Les livrables
-### Liens vers les maquettes Figma avec prototype
 
-Les livrables sont ci-dessus au format PDF. De plus, les maquettes sont sur Figma avec prototype pour aider à comprendre la navigation entre les pages.
+### Diagramme des cas d'usage
+[Diagramme des cas d'usage](https://github.com/charlenry/CharlesHenriSaintMars_10_122022/blob/main/SaintMars_CharlesHenri_1_diagramme_cas_usage_122022.pdf).
+
+### Les User stories
+[Les User Stories avec critères d'acceptation](https://github.com/charlenry/CharlesHenriSaintMars_10_122022/blob/main/SaintMars_CharlesHenri_2_user_stories_122022.pdf).
+
+### Liens vers les maquettes Figma avec prototypes
+Les livrables sont ci-dessus au format PDF. De plus, les maquettes sont sur Figma avec prototypes pour aider à comprendre la navigation entre les pages et avoir une idée plus concrète du produit.
 - [Version desktop des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=120-4255).
 - [Version mobile des maquettes sur Figma avec prototype](https://www.figma.com/file/cH8GtIQ1dQR3G2m0UKDPM6/Learn%40Home?node-id=51-4).
 
